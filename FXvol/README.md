@@ -1,4 +1,4 @@
-#This project is able to
+#This project is aim to
 
 1. Connect Excel VBA to C++ and Quantlib, including debug both VBA and C++ code.
 2. Interpolating the volatility surface(cubic on moneyness, linear on tenor).
