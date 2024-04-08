@@ -1,0 +1,12 @@
+﻿  Example.cpp
+C:\Users\USER\Desktop\Quantlib\QuantLib-1.28\ql\auto_link.hpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\USER\Desktop\Quantlib\MyProject\FXvol\Example\Example.cpp(156,76): warning C4244: '引數': 將 'DOUBLE' 轉換為 'QuantLib::Date::serial_type'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\Quantlib\MyProject\FXvol\Example\Example.cpp(161,88): warning C4244: '引數': 將 'DOUBLE' 轉換為 'QuantLib::Date::serial_type'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\Quantlib\MyProject\FXvol\Example\Example.cpp(188,17): warning C4244: '引數': 將 'QuantLib::Real' 轉換為 'QuantLib::Date::serial_type'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\Quantlib\MyProject\FXvol\Example\Example.cpp(191,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\USER\Desktop\Quantlib\MyProject\FXvol\Example\Example.cpp(192,19): warning C4244: '引數': 將 'DOUBLE' 轉換為 'QuantLib::Date::serial_type'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\Quantlib\MyProject\FXvol\Example\Example.cpp(196,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\USER\Desktop\Quantlib\MyProject\FXvol\Example\Example.cpp(197,19): warning C4244: '引數': 將 'DOUBLE' 轉換為 'QuantLib::Date::serial_type'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\Quantlib\MyProject\FXvol\Example\Example.cpp(204,23): warning C4244: '引數': 將 'QuantLib::Real' 轉換為 'QuantLib::Date::serial_type'，由於類型不同，可能導致資料遺失
+C:\Users\USER\Desktop\Quantlib\MyProject\FXvol\Example\Example.cpp(205,17): warning C4244: '引數': 將 'DOUBLE' 轉換為 'QuantLib::Date::serial_type'，由於類型不同，可能導致資料遺失
+LINK : fatal error LNK1104: 無法開啟檔案 'QuantLib-x64-mt-gd.lib'
