@@ -10,3 +10,10 @@
 - Debug/Example.dll: the dynamic linking file.
 - Example.sln: Visual Studio Project Solution, Quantlib required.
 - Example/Example.cpp: C++ source code.
+
+# Some Pictures of Excel File
+
+![alt text](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/FXvol/Input_window.png)
+![alt text](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/FXvol/OutPut_Window.png)
+
+
