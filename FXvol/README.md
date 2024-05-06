@@ -10,7 +10,3 @@
 - Debug/Example.dll: the dynamic linking file.
 - Example.sln: Visual Studio Project Solution, Quantlib required.
 - Example/Example.cpp: C++ source code.
-
-# Some Pictures
-![alt text](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/Fixed%20Income%20Derivatives/Tree_Setting_and_Result.png)
-![alt text](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/Fixed%20Income%20Derivatives/Vol_and_Rate_Data.png)
