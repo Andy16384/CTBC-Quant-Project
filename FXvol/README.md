@@ -10,7 +10,7 @@
 - Example/Example.cpp: C++ source code.
 - Debug/Example.dll: the dynamic linking file.
 
-# Some Pictures of Excel File
+# Some Screenshots of Excel file
 
 ![Input_window](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/FXvol/Input_window.png)
 ![OutPut_Window](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/FXvol/OutPut_Window.png)
