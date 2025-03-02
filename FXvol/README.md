@@ -1,4 +1,4 @@
-# Project's aim
+# Project's Targets
 
 - Connect Excel VBA to C++ and Quantlib, including debug both VBA and C++ code.
 - Interpolating the volatility surface(cubic on moneyness, linear on tenor).
@@ -7,13 +7,12 @@
 # Important files
 
 - FXvol.xlsm: Excel file, all VBA code are in this file.
-- Debug/Example.dll: the dynamic linking file.
-- Example.sln: Visual Studio Project Solution, Quantlib required.
 - Example/Example.cpp: C++ source code.
+- Debug/Example.dll: the dynamic linking file.
 
 # Some Pictures of Excel File
 
-![alt text](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/FXvol/Input_window.png)
-![alt text](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/FXvol/OutPut_Window.png)
+![Input_window](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/FXvol/Input_window.png)
+![OutPut_Window](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/FXvol/OutPut_Window.png)
 
 
