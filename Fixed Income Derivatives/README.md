@@ -1,9 +1,9 @@
-# Project's Aim
+# Project's Targets
 
-- This project is aim to price a fixed income derivatives called bermudan swaption.
+- Price a fixed income derivatives: bermudan swaption.
 - Model: Hull-White One-factor Model
 - Method: Trinomial tree
 
 # Some Pictures of Excel file
-![alt text](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/Fixed%20Income%20Derivatives/Vol_and_Rate_Data.png)
-![alt text](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/Fixed%20Income%20Derivatives/Tree_Setting_and_Result.png)
+![Vol_and_Rate_Data](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/Fixed%20Income%20Derivatives/Vol_and_Rate_Data.png)
+![Tree_Setting_and_Result](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/Fixed%20Income%20Derivatives/Tree_Setting_and_Result.png)
