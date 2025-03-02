@@ -1,10 +1,10 @@
-# Project's Aim
+# Project's Targets
 
-- This project is aim to evaluate the price and the duration of Target Redemption Forward(TRF or TARF)
-- 2 different model had been used: Black-Scholes and LMUV model. 
+- Evaluate the price and the duration of a Target Redemption Forward(TRF/TARF)
+- Used 2 different model: Black-Scholes and LMUV model. 
 
-# Some Pictures of Excel File
+# Some screenshot of Excel file
 
-![alt text](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/TARF/TARF_Rate.png)
-![alt text](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/TARF/TARF_Vol.png)
-![alt text](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/TARF/TARF_Result.png)
+![TARF_Rate](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/TARF/TARF_Rate.png)
+![TARF_Vol](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/TARF/TARF_Vol.png)
+![TARF_Result](https://github.com/Andy16384/CTBC-Quant-Project/blob/main/TARF/TARF_Result.png)
